@@ -1,0 +1,8 @@
+﻿  Autocomplete.cpp
+D:\Никита\програмирование\skillfactory\Module14(Autocomplete)\Module14(Autocomplete)\Autocomplete.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Module14(Autocomplete).cpp
+D:\Никита\програмирование\skillfactory\Module14(Autocomplete)\Module14(Autocomplete)\Module14(Autocomplete).cpp(12,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Никита\програмирование\skillfactory\Module14(Autocomplete)\Module14(Autocomplete)\Module14(Autocomplete).cpp(28,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Никита\програмирование\skillfactory\Module14(Autocomplete)\Module14(Autocomplete)\Module14(Autocomplete).cpp(37,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Module14(Autocomplete).vcxproj -> D:\Никита\програмирование\skillfactory\Module14(Autocomplete)\Debug\Module14(Autocomplete).exe
